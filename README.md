@@ -37,4 +37,4 @@ NOT: first you must get pid (proccess id) from the server.
 ```
 
 **Example of usage**
-<img src="./images/usage.png" />
+<img src="./usage.png" />
